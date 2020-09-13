@@ -41,3 +41,8 @@ test {
     // Diz para usar o junit platform para os testes.
     useJUnitPlatform()
 }
+
+run{
+    //inclui o Scanner
+    standardInput = System.in
+}

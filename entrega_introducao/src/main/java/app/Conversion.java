@@ -4,7 +4,7 @@ import java.lang.*;
 
 public class Conversion{
     
-    public Integer toMillimeters(Integer n) {
-		return (n * 1000);
+    public static Integer toMillimeters(Integer n) {
+		return n * 1000; //converte o numero para milimetros multiplicando por 1000
 	}
 }

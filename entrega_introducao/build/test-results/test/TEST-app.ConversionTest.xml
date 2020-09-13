@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="app.ConversionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-13T17:57:26" hostname="DESKTOP-9DBPSRC" time="0.026">
+<testsuite name="app.ConversionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-13T20:47:38" hostname="DESKTOP-9DBPSRC" time="0.065">
   <properties/>
-  <testcase name="toMillimetersTest1()" classname="app.ConversionTest" time="0.024"/>
-  <testcase name="toMillimetersTest2()" classname="app.ConversionTest" time="0.001"/>
+  <testcase name="toMillimetersTest1()" classname="app.ConversionTest" time="0.059"/>
+  <testcase name="toMillimetersTest2()" classname="app.ConversionTest" time="0.004"/>
   <system-out><![CDATA[Conversao de metros inteiros para milimetros
 Conversao de metros inteiros para milimetros
 ]]></system-out>

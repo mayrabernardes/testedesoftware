@@ -13,11 +13,10 @@ public class ConversionTest {
     @Test public void toMillimetersTest1() {
         System.out.println("Conversao de metros inteiros para milimetros");
         Integer a = 2;
-        Integer b = 5;
         Conversion conTest = new Conversion();
         Integer resultado1 = conTest.toMillimeters(a);
         Integer esperado1 = 2000;
-        assertEquals(esperado1, resultado1);
+        assertEquals(esperado1, resultado1); //Compara se os dois resultados são iguais
         
     }
     @Test public void toMillimetersTest2() {
@@ -26,7 +25,7 @@ public class ConversionTest {
         Conversion conTest = new Conversion();
         Integer resultado2 = conTest.toMillimeters(b);
         Integer esperado2 = 5000;
-        assertEquals(esperado2, resultado2);
+        assertEquals(esperado2, resultado2); //Compara se os dois resultados são iguais
         
     }
     
