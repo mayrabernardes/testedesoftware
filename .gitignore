@@ -1,7 +1,9 @@
 # Ignore Gradle project-specific cache directory
 entrega_introducao\.gradle
 \.gradle
+\entrega_testes_funcionais\atividade_pratica_01\.gradle
 
 # Ignore Gradle build output directory
 entrega_introducao\build
 \build
+\entrega_testes_funcionais\atividade_pratica_01\build
